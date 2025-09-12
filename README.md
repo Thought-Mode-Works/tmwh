@@ -15,9 +15,9 @@ Our integration system merges three powerful analytical engines:
 
 - **Delphi**: Advanced reasoning analysis platform with General Reasoning Profiles (GRP) framework
 - **Dialogica**: Multi-Actor parliamentary procedure collaborative document simulator
-- **ConceptMesh**: Real-time generative conceptual synthesis engine built on fault-tolerant distributed processes, for idea exploration and context generation.
+- **ConceptMesh**: Real-time generative conceptual synthesis engine built on fault-tolerant distributed processes, for interperspective conceptual exploration and context generation.
 
-This integration creates composeable and reusable thought modules that are used to analyze concepts through established reasoning patterns while maintaining real-time responsiveness for strategic decision-making, and multi-actor simulation, and idea horizon navigation.
+This integration creates composeable and reusable thought modules that are used to analyze concepts through established reasoning patterns while maintaining real-time responsiveness for strategic decision-making, and multi-actor simulation, and conceptual horizon navigation.
 
 
 <img width="1201" height="899" alt="Screenshot 2025-09-11 at 9 25 48 PM" src="https://github.com/user-attachments/assets/c05a521e-452c-4a87-b91e-e7a31deb81bb" />
