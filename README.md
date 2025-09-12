@@ -1,5 +1,6 @@
 # ThoughtMode Works
 *Simulated Strateging Forecasting Interfaces and Integrations*
+
 *Where computers overthink things so you don't have to*
 
 ## Overview
