@@ -30,6 +30,9 @@ This integration creates composeable and reusable thought modules that are used 
 - Integrate diverse intellectual frameworks: Constitutional Originalist, Neo-Conservative, Analytical Philosophy, Pragmatist
 - Generate cross-paradigm insights through reasoning pattern synthesis
 
+  
+<img width="1201" height="899" alt="Screenshot 2025-09-11 at 9 27 21 PM" src="https://github.com/user-attachments/assets/5274ee27-795d-4b2c-afdf-a88f9e26259b" />
+
 **Real-Time Strategic Synthesis**
 - Process concepts within 500ms using distributed OTP-based architecture
 - Maintain 99.9% system uptime under high analytical load
