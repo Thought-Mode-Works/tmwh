@@ -8,12 +8,13 @@ ThoughtMode Works develops cutting-edge integration platforms that combine real-
 
 ## Core Technology
 
-### ConceptWeb-Delphi Integration Platform
+### ConceptWeb-Delphi-Dialogica Integration Platform
 
 Our integration system merges three powerful analytical engines:
 
 - **ConceptWeb**: Real-time dialectical synthesis engine built on fault-tolerant distributed processes
 - **Delphi**: Advanced reasoning analysis platform with General Reasoning Profiles (GRP) framework
+- **Dialogica**: Multi-Actor parliamentary procedure collaborative document simulator
 
 This integration creates composeable and reusable thought modules that are used to analyze concepts through established reasoning patterns while maintaining real-time responsiveness for strategic decision-making, and multi-actor simulation.
 
