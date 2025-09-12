@@ -1,26 +1,27 @@
 # ThoughtMode Works
-*Advanced Integration Technology for Strategic Forecasting*
+*Simulated Strateging Forecasting Interfaces and Integrations*
+*Where computers overthink things so you don't have to*
 
 ## Overview
 
-ThoughtMode Works develops cutting-edge integration platforms that combine real-time dialectical reasoning with sophisticated analytical frameworks. Our flagship technology enables organizations to harness diverse reasoning patterns for strategic forecasting, decision support, and complex problem analysis.
+ThoughtMode Works develops cutting-edge integration platforms that combine real-time multi-modal reasoning with nuanced and composeable analytical frameworks. Our flagship technology enables organizations to harness diverse reasoning patterns for strategic forecasting, decision support, and complex problem analysis.
 
 ## Core Technology
 
 ### ConceptWeb-Delphi Integration Platform
 
-Our proprietary integration system merges two powerful analytical engines:
+Our integration system merges three powerful analytical engines:
 
 - **ConceptWeb**: Real-time dialectical synthesis engine built on fault-tolerant distributed processes
 - **Delphi**: Advanced reasoning analysis platform with General Reasoning Profiles (GRP) framework
 
-This integration creates sophisticated, reusable thought modules that analyze concepts through established reasoning patterns while maintaining real-time responsiveness for strategic decision-making.
+This integration creates composeable and reusable thought modules that are used to analyze concepts through established reasoning patterns while maintaining real-time responsiveness for strategic decision-making, and multi-actor simulation.
 
 #### Key Capabilities
 
 **Multi-Perspective Analysis**
 - Deploy 18-parameter reasoning analysis across 5 analytical categories (Ω, Φ, Ψ, Θ, Σ)  
-- Integrate diverse intellectual frameworks: Constitutional Originalist, Critical Theory, Analytical Philosophy, Pragmatist
+- Integrate diverse intellectual frameworks: Constitutional Originalist, Neo-Conservative, Analytical Philosophy, Pragmatist
 - Generate cross-paradigm insights through reasoning pattern synthesis
 
 **Real-Time Strategic Synthesis**
@@ -40,7 +41,7 @@ This integration creates sophisticated, reusable thought modules that analyze co
 Our platform excels in strategic forecasting through:
 
 **Dialectical Contradiction Analysis**
-- GODE v5.2 engine generates meaningful contradictions between reasoning approaches
+- Generative Onto-Dialectical reasoning generates meaningful contradictions between reasoning approaches
 - Cross-paradigm horizon formation identifies blind spots in single-perspective analysis
 - Legitimacy scoring validates reasoning pattern applications
 
@@ -90,4 +91,4 @@ Our integration platform delivers:
 
 ---
 
-*ThoughtMode Works: Where advanced reasoning meets strategic advantage.*
+*ThoughtMode Works: Where computers overthink things so you don't have to*
