@@ -9,13 +9,13 @@ ThoughtMode Works develops cutting-edge integration platforms that combine real-
 
 ## Core Technology
 
-### Delphi-Dialogica-ConceptMesh Integration Platform
+### Delphi-Dialogica-Dialectica Integration Platform
 
 Our integration system merges three powerful analytical engines:
 
 - **Delphi**: Advanced reasoning analysis platform with General Reasoning Profiles (GRP) framework
 - **Dialogica**: Multi-Actor parliamentary procedure collaborative document simulator
-- **ConceptMesh**: Real-time generative conceptual synthesis engine built on fault-tolerant distributed processes, for interperspective conceptual exploration and context generation.
+- **Dialectica**: Real-time generative conceptual synthesis engine built on fault-tolerant distributed processes, for interperspective conceptual exploration and context generation.
 
 This integration creates composeable and reusable thought modules that are used to analyze concepts through established reasoning patterns while maintaining real-time responsiveness for strategic decision-making, and multi-actor simulation, and conceptual horizon navigation.
 
